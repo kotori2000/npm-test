@@ -1,7 +1,7 @@
 {
-  "name": "@lerna/test",
+  "name": "@wang/npm-test",
   "private": false,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "devDependencies": {
     "lerna": "^4.0.0"
   }
